@@ -1,0 +1,455 @@
+{
+  "hits": {
+    "total": 44651,
+    "max_score": 0,
+    "hits": []
+  },
+  "aggregations": {
+    "2": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 274,
+      "buckets": [
+        {
+          "key": 1,
+          "doc_count": 18
+        },
+        {
+          "key": 2,
+          "doc_count": 16
+        },
+        {
+          "key": 3,
+          "doc_count": 11
+        },
+        {
+          "key": 4,
+          "doc_count": 11
+        },
+        {
+          "key": 5,
+          "doc_count": 3
+        },
+        {
+          "key": 6,
+          "doc_count": 6
+        },
+        {
+          "key": 7,
+          "doc_count": 5
+        },
+        {
+          "key": 8,
+          "doc_count": 2
+        },
+        {
+          "key": 9,
+          "doc_count": 11
+        },
+        {
+          "key": 10,
+          "doc_count": 6
+        },
+        {
+          "key": 11,
+          "doc_count": 8
+        },
+        {
+          "key": 12,
+          "doc_count": 7
+        },
+        {
+          "key": 13,
+          "doc_count": 8
+        },
+        {
+          "key": 14,
+          "doc_count": 5
+        },
+        {
+          "key": 15,
+          "doc_count": 14
+        },
+        {
+          "key": 16,
+          "doc_count": 29
+        },
+        {
+          "key": 17,
+          "doc_count": 28
+        },
+        {
+          "key": 18,
+          "doc_count": 43
+        },
+        {
+          "key": 19,
+          "doc_count": 37
+        },
+        {
+          "key": 20,
+          "doc_count": 44
+        },
+        {
+          "key": 21,
+          "doc_count": 40
+        },
+        {
+          "key": 22,
+          "doc_count": 49
+        },
+        {
+          "key": 23,
+          "doc_count": 41
+        },
+        {
+          "key": 24,
+          "doc_count": 43
+        },
+        {
+          "key": 25,
+          "doc_count": 47
+        },
+        {
+          "key": 26,
+          "doc_count": 58
+        },
+        {
+          "key": 27,
+          "doc_count": 48
+        },
+        {
+          "key": 28,
+          "doc_count": 46
+        },
+        {
+          "key": 29,
+          "doc_count": 57
+        },
+        {
+          "key": 30,
+          "doc_count": 64
+        },
+        {
+          "key": 31,
+          "doc_count": 43
+        },
+        {
+          "key": 32,
+          "doc_count": 54
+        },
+        {
+          "key": 33,
+          "doc_count": 63
+        },
+        {
+          "key": 34,
+          "doc_count": 64
+        },
+        {
+          "key": 35,
+          "doc_count": 66
+        },
+        {
+          "key": 36,
+          "doc_count": 89
+        },
+        {
+          "key": 37,
+          "doc_count": 78
+        },
+        {
+          "key": 38,
+          "doc_count": 97
+        },
+        {
+          "key": 39,
+          "doc_count": 100
+        },
+        {
+          "key": 40,
+          "doc_count": 99
+        },
+        {
+          "key": 41,
+          "doc_count": 135
+        },
+        {
+          "key": 42,
+          "doc_count": 144
+        },
+        {
+          "key": 43,
+          "doc_count": 161
+        },
+        {
+          "key": 44,
+          "doc_count": 175
+        },
+        {
+          "key": 45,
+          "doc_count": 189
+        },
+        {
+          "key": 46,
+          "doc_count": 207
+        },
+        {
+          "key": 47,
+          "doc_count": 206
+        },
+        {
+          "key": 48,
+          "doc_count": 254
+        },
+        {
+          "key": 49,
+          "doc_count": 270
+        },
+        {
+          "key": 50,
+          "doc_count": 282
+        },
+        {
+          "key": 51,
+          "doc_count": 273
+        },
+        {
+          "key": 52,
+          "doc_count": 322
+        },
+        {
+          "key": 53,
+          "doc_count": 381
+        },
+        {
+          "key": 54,
+          "doc_count": 331
+        },
+        {
+          "key": 55,
+          "doc_count": 349
+        },
+        {
+          "key": 56,
+          "doc_count": 364
+        },
+        {
+          "key": 57,
+          "doc_count": 389
+        },
+        {
+          "key": 58,
+          "doc_count": 426
+        },
+        {
+          "key": 59,
+          "doc_count": 440
+        },
+        {
+          "key": 60,
+          "doc_count": 439
+        },
+        {
+          "key": 61,
+          "doc_count": 471
+        },
+        {
+          "key": 62,
+          "doc_count": 490
+        },
+        {
+          "key": 63,
+          "doc_count": 523
+        },
+        {
+          "key": 64,
+          "doc_count": 553
+        },
+        {
+          "key": 65,
+          "doc_count": 520
+        },
+        {
+          "key": 66,
+          "doc_count": 581
+        },
+        {
+          "key": 67,
+          "doc_count": 547
+        },
+        {
+          "key": 68,
+          "doc_count": 609
+        },
+        {
+          "key": 69,
+          "doc_count": 641
+        },
+        {
+          "key": 70,
+          "doc_count": 655
+        },
+        {
+          "key": 71,
+          "doc_count": 645
+        },
+        {
+          "key": 72,
+          "doc_count": 696
+        },
+        {
+          "key": 73,
+          "doc_count": 801
+        },
+        {
+          "key": 74,
+          "doc_count": 895
+        },
+        {
+          "key": 75,
+          "doc_count": 971
+        },
+        {
+          "key": 76,
+          "doc_count": 998
+        },
+        {
+          "key": 77,
+          "doc_count": 1103
+        },
+        {
+          "key": 78,
+          "doc_count": 1178
+        },
+        {
+          "key": 79,
+          "doc_count": 1208
+        },
+        {
+          "key": 80,
+          "doc_count": 1324
+        },
+        {
+          "key": 81,
+          "doc_count": 1368
+        },
+        {
+          "key": 82,
+          "doc_count": 1425
+        },
+        {
+          "key": 83,
+          "doc_count": 1432
+        },
+        {
+          "key": 84,
+          "doc_count": 1523
+        },
+        {
+          "key": 85,
+          "doc_count": 1502
+        },
+        {
+          "key": 86,
+          "doc_count": 1573
+        },
+        {
+          "key": 87,
+          "doc_count": 1581
+        },
+        {
+          "key": 88,
+          "doc_count": 1478
+        },
+        {
+          "key": 89,
+          "doc_count": 1459
+        },
+        {
+          "key": 90,
+          "doc_count": 1353
+        },
+        {
+          "key": 91,
+          "doc_count": 1222
+        },
+        {
+          "key": 92,
+          "doc_count": 1100
+        },
+        {
+          "key": 93,
+          "doc_count": 1032
+        },
+        {
+          "key": 94,
+          "doc_count": 812
+        },
+        {
+          "key": 95,
+          "doc_count": 699
+        },
+        {
+          "key": 96,
+          "doc_count": 543
+        },
+        {
+          "key": 97,
+          "doc_count": 464
+        },
+        {
+          "key": 98,
+          "doc_count": 336
+        },
+        {
+          "key": 99,
+          "doc_count": 236
+        },
+        {
+          "key": 100,
+          "doc_count": 185
+        },
+        {
+          "key": 101,
+          "doc_count": 123
+        },
+        {
+          "key": 102,
+          "doc_count": 94
+        },
+        {
+          "key": 103,
+          "doc_count": 47
+        },
+        {
+          "key": 104,
+          "doc_count": 35
+        },
+        {
+          "key": 105,
+          "doc_count": 26
+        },
+        {
+          "key": 106,
+          "doc_count": 10
+        },
+        {
+          "key": 107,
+          "doc_count": 7
+        },
+        {
+          "key": 108,
+          "doc_count": 5
+        },
+        {
+          "key": 110,
+          "doc_count": 2
+        },
+        {
+          "key": 111,
+          "doc_count": 1
+        }
+      ]
+    }
+  }
+}
